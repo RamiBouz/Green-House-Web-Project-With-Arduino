@@ -3,10 +3,10 @@ GreenHouse web project using Arduino, sending data from Arduino (Humidity sensor
 
 Arduino parts:
 
-Humidity Sensor YL 69.
-Temperature Sensor LM75A.
-2x LED.
-2x Resistors.
-1x Solderless.
-ESP8266 WiFi.
-Arduino cables.
+1. Humidity Sensor YL 69.
+2. Temperature Sensor LM75A.
+3. 2x LED.
+4. 2x Resistors.
+5. 1x Solderless.
+6. ESP8266 WiFi.
+7. Arduino cables.
